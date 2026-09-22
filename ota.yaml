@@ -1,4 +1,3 @@
 System:
-  Version: "V1300R2"       ----------------- as stated by version in vsi.py
+  Version: "V1300R2"      
   Firmware: "vsi.zip"
-
