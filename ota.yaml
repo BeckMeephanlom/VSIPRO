@@ -1,5 +1,6 @@
 #Release Notes V13xxx:
+#V13001----------------------Support Https
 #V13000----------------------Factory Release. No Firmware Available Here
 System:
-  Version: "13000"      
+  Version: "13001"      
   Firmware: "vsi.zip"
